@@ -1,6 +1,8 @@
 [gd_scene load_steps=2 format=2]
 
 [ext_resource path="res://main.cs" type="Script" id=1]
+[ext_resource path="res://AudioStreamPlayer.cs" type="Script" id=2]
+[ext_resource path="res://music/leaving_illenium.wav" type="AudioStream" id=3]
 
 [node name="main" type="Spatial"]
 script = ExtResource( 1 )
